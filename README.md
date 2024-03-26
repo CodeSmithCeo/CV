@@ -59,7 +59,7 @@ Leveraging my academic background and innate ability to quickly grasp new techno
 
 _Snowfall d.o.o., Zagreb, Croatia (sadly, closed months after my departure), 03/2016 – 04/2017_
 
-DI have independently designed and developed an automated end-to-end testing solution using **Selenium** and **WebDriverIO**, integrated with **BrowserStack**, for over 90 different versions of an Ember based payment portal for **Panasonic WISP** in-flight purchases.
+I have independently designed and developed an automated end-to-end testing solution using **Selenium** and **WebDriverIO**, integrated with **BrowserStack**, for over 90 different versions of an Ember based payment portal for **Panasonic WISP** in-flight purchases.
 
 Made a significant contribution to both the codebase as a member of a team using **AngularJS**, **Ionic**, and **Cordova** to develop multiple user group application for the Swedish transportation company MTR.
 
