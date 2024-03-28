@@ -35,7 +35,7 @@ Performance optimization, Scalability, WebSockets, Lazy loading, Real-Time data 
 - Collaborate: **git**, **GitHub**, **GitLens**, GitGraph, Jira, **Azure DevOps**, **Copilot**, **ChatGPT**, **Notion**
 - Backend: **Node.js**, ASP.NET, Entity Framework, Microsoft SQL, PL/SQL, **Swagger**
 - Automation: Selenium, WebDriverIO, Puppeteer, Cheerio, BrowserStack
-- Other: **SCSS**, LESS, **React Router**, **Lodash**, jQuery
+- Other: **SCSS**, LESS, **React Router**, **Lodash**, jQuery, **Video.js**
 
 ## Work Experience
 
@@ -104,9 +104,9 @@ _Please note that the projects outlined below were conducted through business-to
 
 ### Unstructured Data Extraction and Management Platform
 
-As the most experienced developer within the in-house team, I took the lead in overhauling the outdated stack to bring it in line with modern standards. My primary objective was to select a contemporary and reliable frameworks and libraries that the team could seamlessly transition to, using the well-established technologies, meticulously selected to meet the project's requirements.
+As the most experienced developer within the in-house team, I took the lead in overhauling the outdated stack to bring it in line with modern standards. My primary objective was to select contemporary and reliable frameworks and libraries that the team could seamlessly transition to, using well-established technologies, meticulously selected to meet the project's requirements.
 
-Following the initial setup, I introduced established design patterns and provided foundational code to implement essential functionalities such as routing, security, styling, theming, and data management in a simple, clear and consistent manner. The result served as a template for others to both learn from and build upon during subsequent development phases. Additionally, I established coding conventions, structure, and naming conventions to streamline collaboration within the team.
+Following the initial setup, I introduced established design patterns and provided foundational code to implement essential functionalities such as routing, security, styling, theming, and data management in a simple, clear, and consistent manner. The result served as a template for others to both learn from and build upon during subsequent development phases. Additionally, I established coding conventions, structure, and naming to streamline collaboration within the team.
 
 Throughout the project lifecycle, I was frequently called upon to address challenging decisions, develop specific functionalities, and resolve complex issues encountered by both individual team members and the team as a whole.
 
@@ -124,15 +124,17 @@ Developed a Minimum Viable Product (MVP) frontend app to demonstrate a machine l
 
 ### Data Management Platform
 
-I have collaborated as an external partner with the in-house team on a project in the advanced stage of development, focused on managing semi-structured and unstructured data. The project encountered numerous challenges, including legacy errors and inconsistencies, various code styles, redundant and conflicting libraries, inconsistent data state, and more, resulting in significant accumulation of technical debt. Reflecting on the project, it became evident that the underlying issue was not solely a lack of manpower, as initially stated, but rather a need for strategic intervention to address the above.
+I have collaborated as an external partner with the in-house team on a project in the advanced stage of development, focused on managing semi-structured and unstructured data. The project encountered numerous challenges, including legacy errors and inconsistencies, various code styles, redundant and conflicting libraries, inconsistent data state, and more, resulting in significant accumulation of technical debt.
 
-To address it, I have planned a multiple phased approach where the team would work on the new set of functionalities while refactoring the past deficiencies. Typically, I would venture first, doing the most critical work and set up the guidelines on how to continue and where and what to refactor. This process included identifying the minimum set of dependencies, clarifying roles and responsibilities, defining modules, refactoring complex code into a more maintainable one, reorganizing component hierarchy, improving module, components and API naming, optimizing API interactions and much more.
+Reflecting on the project, it became evident that the underlying issue was not solely a lack of manpower, as initially stated, but rather a need for strategic intervention to address the above.
 
-As a result of these efforts, the team and I successfully transitioned the project to a more sustainable state and after it had entered the maintenance phase I was contracted to work on their next project. While specific metrics of success were not provided due to severe lack of time, in my humble opinion the project's improved stability, finalization of development phase, and the adaptation of numerous practices I had introduced to the team into future projects of the company represent tangible results.
+To address it, I have planned a multiple-phased approach where the team would work on the new set of functionalities while refactoring the past deficiencies. Typically, I would venture first, doing the most critical work and set up the guidelines on how to continue and where and what to refactor. This process included identifying the minimum set of dependencies, clarifying roles and responsibilities, defining modules, refactoring complex code into a more maintainable one, reorganizing component hierarchy, improving module, components, and API naming, optimizing API interactions, and much more.
+
+As a result of these efforts, the team and I successfully transitioned the project to a more sustainable state and after it had entered the maintenance phase, I was contracted to work on their next project. While specific metrics of success were not provided due to severe lack of time, in my humble opinion the project's improved stability, finalization of development phase, and the adaptation of numerous practices I had introduced to the team into future projects of the company represent tangible results.
 
 ### Network Intelligence Analytics Application
 
-I was contracted to become sole frontend developer on an in-house project focused on big data analytics of captured network traffic. The outcome was a sophisticated, low-latency, widget-based Single Page Application (SPA), empowering clients in visualizing and distilling vast datasets into actionable insights. Harnessing innovative technologies and using a user-centric approach, the product enables users to seamlessly transition from receiving warnings about potential issues to analyzing them and receiving recommendations for their resolution.
+I was contracted to become the sole frontend developer on an in-house project focused on big data analytics of captured network traffic. The outcome was a sophisticated, low-latency, widget-based Single Page Application (SPA), empowering clients in visualizing and distilling vast datasets into actionable insights. Harnessing innovative technologies and using a user-centric approach, the product enables users to seamlessly transition from receiving warnings about potential issues to analyzing them and receiving recommendations for their resolution.
 
 ## Formal Education
 
