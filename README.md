@@ -70,21 +70,24 @@ _TEB Informatika d.o.o., Zagreb, Croatia, 08/2015 – 03/2016_
 
 As a member of a team outsourced to the **Croatian national road management company - Hrvatske ceste d.o.o**. I have played an integral role throughout the entire project lifecycle, from requirement gathering to final testing and maintenance planning, while **acting as the primary liaison** between the team, CTO, and the client, ensuring seamless communication and alignment of project objectives.
 
-The project entailed the development of a mobile first SPA utilizing **AngularJS**, **Ionic**, and **Cordova**, tailored to operate as a native app for mobile devices and tablets across iOS, Android, and Windows Phone operating systems. This approach **reduced total development time and costs by over 70%** compared to developing multiple native applications. Notably, the application pioneered advanced features at the time, including **real-time positioning**, an incident reporting system with **push notifications**, and a true **offline mode**, setting new standards for the whole company.
+The project entailed the development of a mobile first SPA utilizing **AngularJS**, **Ionic**, and **Cordova**, tailored to operate as a native app for mobile devices and tablets across iOS, Android, and Windows Phone operating systems. This approach, **reduced total development time and costs by over 70%** compared to developing multiple native applications. Notably, the application pioneered advanced features at the time, including **real-time positioning**, an incident reporting system with **push notifications**, and a true **offline mode**, setting new standards for the whole company.
 
 ### Frontend and Android Developer
 
 _TEB Informatika d.o.o., Zagreb, Croatia, 05/2014 – 08/2015_
 
-Contributed to various web and native Android applications, specializing in UI/UX design and the implementation of code based on specifications. Most notably a native Android application that merged real-time video data with GPS coordinates and user input data.
+I have contributed to various web applications, primarily focusing on **UI design** and occasionally implementing code based on specifications.
+
+One of those applications, I have solely converted to a **native Android application** (due to performance issues), which merged **real-time video data with GPS coordinates and user input**.
+
 
 ### Tutor and Programmer
 
-_Self-employed, Zagreb, Croatia, 05/2012 – 05/2014_
+_Self-employed, Zagreb, Croatia, 05/2010 – 05/2014_
 
-During my time as a self-employed tutor, I provided personalized instruction to high school and college students across a broad spectrum of subjects, including various programming languages such as Basic, C, C++, Java, JavaScript, SQL, PL/SQL, and more. Over the course of two years, I had the privilege of guiding over 100 students, tailoring my teaching methods to meet their individual needs and learning styles.
+During my time as a self-employed tutor (starting during my senior years of college), I provided personalized instruction to high school and college students across a broad spectrum of subjects, including various programming languages such as **Basic, C, C++, Java, JavaScript, SQL, PL/SQL, and more**. Over the course of several years, I had the privilege of **guiding over 100 students**, tailoring my teaching methods to meet their individual needs and learning styles.
 
-Through this experience, I honed my **ability to communicate complex concepts in a clear and accessible manner, fostering an environment conducive to learning and growth**. I also developed **strong problem-solving skills**, as I often encountered unique challenges that required creative solutions.
+Through this experience, I honed my ability to **communicate complex concepts in a clear and accessible manner**, fostering an environment conducive to learning and growth. I also developed **strong problem-solving skills**; as I often encountered unique challenges that required creative solutions.
 
 While I initially considered establishing my own tutoring company, I ultimately decided to pivot towards greater industry involvement to deepen my practical knowledge and skills first.
 
