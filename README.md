@@ -43,9 +43,10 @@ Performance optimization, Scalability, WebSockets, Lazy loading, Real-Time data 
 
 _CodeSmith - sole proprietorship, Zagreb, Croatia, 5/2019 – ongoing_
 
-I have held various roles in the development process, from **lead developer**, **solo developer/designer**, to **developer** as an external member of multiple companies. Throughout my tenure, I have collaborated with **multiple contractors** on diverse **big data** and **machine learning projects**. These initiatives have encompassed **real-time data management**, **selective data persistence**, **advanced charting**, and **mathematical graph drawing**. Leveraging my expertise in **ReactJS, TypeScript, Redux, RTK, MUI, JointJS, ECharts**, and other technologies, and have been instrumental in in both maintaining existing SPAs and spearheading the development of new ones.
+I have held various roles in the development process, from **lead developer**, **sole developer/designer**, to **developer** as an external member **of clients' teams**. Throughout my tenure, I have collaborated with **multiple contractors** on diverse **big data** and **machine learning projects**. These initiatives have encompassed some not-so-common concepts—**real-time data management**, **selective data persistence**, **charting**, and **visualizing mathematical graphs**. Leveraging my expertise in **ReactJS, TypeScript, Redux, RTK, MUI, JointJS, ECharts**, and other technologies, I have been instrumental in both maintaining existing SPAs and spearheading the development of new ones.
 
-Additionally, I have played a significant role in shaping the development process, establishing **robust code standards**, implementing **best practices**, and providing **guidance** to less experienced team members. My ability to make informed technical decisions has created a **template / backbone for several of client's future projects**.
+Additionally, I have played a significant role in shaping the development process, establishing **robust code standards**, implementing **best practices**, and providing **guidance** to less experienced team members. My ability to make informed technical decisions has created a **template/backbone for several of the client's future projects**.
+
 
 ### Full-stack Web Developer
 
