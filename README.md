@@ -31,9 +31,9 @@ Performance optimization, Scalability, WebSockets, Lazy loading, Real-Time data 
 - UI: **Material-UI**, Bootstrap, **TanStack Table**, **ECharts**, **react-icons**, **Font Awesome**, Styled Icons, Unicons, **dnd-kit**, react-toastify
 - Frameworks: **create-react-app**, **Redux**, AngularJS, Cordova, Ionic
 - Data: **Axios**, **Ky**, **RTK (redux toolkit)**, **Formik**, **JSON**, XML
-- Build and Pack: **npm**, **Yarn**, **Webpack**, **git**, Gulp, Grunt, **Rollup**
+- Build and Pack: **npm**, **Yarn**, **Webpack**, **git**, Grunt, **Rollup**
 - Collaborate: **git**, **GitHub**, **GitLens**, GitGraph, Jira, **Azure DevOps**, **Copilot**, **ChatGPT**, **Notion**
-- Backend: **Node.js**, .NET, Entity Framework, Microsoft SQL, PL/SQL, **Swagger**
+- Backend: **Node.js**, ASP.NET, Entity Framework, Microsoft SQL, PL/SQL, **Swagger**
 - Automation: Selenium, WebDriverIO, Puppeteer, Cheerio, BrowserStack
 - Other: **SCSS**, LESS, **React Router**, **Lodash**, jQuery
 
@@ -52,17 +52,17 @@ Additionally, I have played a significant role in shaping the development proces
 
 _Neoinfo d.o.o., Zagreb, Croatia, 04/2017 – 05/2019_
 
-During this engagement, I transitioned into the role of a full-stack developer, and within the first year, assumed the position of the lead developer's right hand. My responsibilities encompassed the full range of tasks, from refining CSS styles to optimizing database performance for a project developed for an insurance company, based on **AngularJS** (styled with **Bootstrap**), **ASP.NET** (augmented with **Entity Framework**), and a **Microsoft SQL Server** database.
+During this engagement, I **transitioned into the role of a full-stack developer**, and within the first year, **assumed the position of the lead developer's right hand**, eventually replacing him on his departure. My responsibilities encompassed the full range of tasks, from refining CSS styles to optimizing database performance for a project developed for an insurance company, based on AngularJS (styled with **Bootstrap**), **ASP.NET** (augmented with **Entity Framework**), and a **Microsoft SQL Server** database.
 
-Leveraging my academic background and innate ability to quickly grasp new technologies, I adeptly tackled challenges such as shifting mindset to a strongly typed language (**C#**), navigating the .NET ecosystem efficiently, and extending the existing ER model, often remodeling it to increase performance. The result was the **expansion of their business from Croatia to the Italian market, with the Italian partner selecting me as the primary point of contact**, increased performance and far more maintainable code. In the end, the **development team underwent a 60% reduction**, even as the application managed over **three times the volume of data**, allowing for the redistribution of human resources elsewhere.
+Leveraging my academic background and innate ability to quickly grasp new technologies, I adeptly tackled challenges such as shifting mindset to a strongly typed language (**C#**), navigating the **ASP.NET** ecosystem efficiently, and extending the existing ER model, often remodeling it to increase performance. The result was the **expansion of their business from Croatia to the Italian market, with the Italian partner selecting me as the primary point of contact**, increased performance and far more maintainable code. In the end, the **development team experienced a 40% reduction**, even as the application managed over **three times the volume of data**, allowing for the redistribution of human resources elsewhere.
 
 ### Frontend Web Developer
 
 _Snowfall d.o.o., Zagreb, Croatia (sadly, closed months after my departure), 03/2016 – 04/2017_
 
-I have independently designed and developed an automated end-to-end testing solution using **Selenium** and **WebDriverIO**, integrated with **BrowserStack**, for over 90 different versions of an Ember based payment portal for **Panasonic WISP** in-flight purchases.
+I have envisioned and developed an **automated end-to-end testing solution** using **Selenium** and **WebDriverIO**, integrated with **BrowserStack**, for over 90 different versions of an Ember-based payment portal for **Panasonic** WISP in-flight purchases, which significantly enhanced our ability to test both the core and vendor-specific changes by a magnitude of a hundred.
 
-Made a significant contribution to both the codebase as a member of a team using **AngularJS**, **Ionic**, and **Cordova** to develop multiple user group application for the Swedish transportation company MTR.
+Made a significant contribution to both the codebase as a member of a team using **AngularJS**, **Ionic**, and **Cordova** to develop multiple user group applications for the Swedish transportation company **MTR**.
 
 ### Frontend Developer
 
