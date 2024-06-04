@@ -2,7 +2,7 @@
 
 ## Contact Information
 
-- **Email:** damir.kovac@gmail.com
+- **Email:** damir.kowac@gmail.com
 - **LinkedIn:** [damir-kovac](https://www.linkedin.com/in/damir-kowac/)
 - **StackOverflow:** (~1mil reached) [dantethesmith](https://stackoverflow.com/users/5439782/dantethesmith)
 - **Phone:** (+385) 95 558 6934
